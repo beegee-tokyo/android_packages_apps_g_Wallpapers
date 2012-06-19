@@ -14,7 +14,8 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.CMWallpapers;
+
+package com.beegee.Wallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
